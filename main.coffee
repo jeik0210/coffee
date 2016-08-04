@@ -14,7 +14,7 @@ class Resta extends Operar
     console.log "la resta de #{@valor1} y #{@valor2} es #{res}"
 
 
-obj = new Operar(2,2)
+obj = new Operar(4,4)
 obj.sumar()
 
 obj2 = new Resta(3,2)
