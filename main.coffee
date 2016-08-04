@@ -17,8 +17,6 @@ class Resta extends Operar
 obj = new Operar(4,4)
 obj.sumar()
 
-obj2 = new Resta(3,2)
-obj2.restar()
 
 ###
 
