@@ -1,0 +1,10 @@
+{
+	"name": "CoffeeScript",
+	"version": "1.0.0",
+	"description" : "aprendiendo CoffeeScript",
+	"Author" : "Jeison",
+	"devDependencies":
+	{
+
+	}
+}
