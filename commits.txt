@@ -1,0 +1,23 @@
+commit ce278635feb4e7f937b161fb85e1ca3ad3e52726
+Author: Jeison Castro <jeisoncastro2@gmail.com>
+Date:   Wed Aug 3 22:19:12 2016 -0500
+
+    update params class Resta
+
+commit b29cdb8feef610ab9e4cfd552f61fa186e9b58f8
+Author: Jeison Castro <jeisoncastro2@gmail.com>
+Date:   Wed Aug 3 22:17:04 2016 -0500
+
+    delete obj2
+
+commit a5552ce5b32393b1831424109b585e30cff611aa
+Author: Jeison Castro <jeisoncastro2@gmail.com>
+Date:   Wed Aug 3 22:14:07 2016 -0500
+
+    cambie parametros
+
+commit 007948833ddfddd78f19880c85c3d524af09a367
+Author: Jeison Castro <jeisoncastro2@gmail.com>
+Date:   Wed Aug 3 22:10:08 2016 -0500
+
+    created project coffee test
