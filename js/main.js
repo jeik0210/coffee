@@ -41,11 +41,11 @@ Resta = (function(superClass) {
 
 })(Operar);
 
-obj = new Operar(2, 2);
+obj = new Operar(4, 4);
 
 obj.sumar();
 
-obj2 = new Resta(3, 2);
+obj2 = new Resta(5, 4);
 
 obj2.restar();
 
